@@ -10,3 +10,8 @@
 text-align: center;
 margin: auto;
 }
+.App-header
+{
+  width: 50%;
+  margin: 0 auto;
+}
